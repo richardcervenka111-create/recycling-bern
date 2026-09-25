@@ -4,7 +4,7 @@ Die Entsorgung-App sagt, wann der Kehricht kommt. Sie sagt nicht, wo die nächst
 
 Live: **https://richardcervenka111-create.github.io/recycling-bern/**
 
-Drei Sprachen (DE/EN/SK), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
+Zwei Sprachen (DE/EN), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
 
 ## Daten
 
